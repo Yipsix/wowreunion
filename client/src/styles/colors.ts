@@ -1,0 +1,14 @@
+export const white = '#ffffff';
+export const black = '#000000';
+export const blue300 = '#78c0e0';
+export const blue500 = '#008dd5';
+export const blue700 = '#1c69b9';
+export const blue900 = '#1c5d99';
+export const blueA100 = '#82b1ff';
+export const blueA200 = '#448aff';
+export const blueA400 = '#2979ff';
+export const indigo900 = '#14143c';
+export const red400 = '#EF5350';
+export const red800 = '#cc2936';
+export const grey400 = '#bdbdbd';
+export const grey600 = '#757575';
